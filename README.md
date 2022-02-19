@@ -1,6 +1,6 @@
 # Padawan360
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dankraus)
+This is a modified version of padawan360 to support my R2D2. Changes are to support a YX5300 mp3 player, control servos from the main arduino, control the holoprojectors and also interface with different motor controllers.
 
 - [Padawan360](#padawan360)
 - [Intro](#intro)
