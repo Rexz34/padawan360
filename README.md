@@ -2,6 +2,12 @@
 
 This is a modified version of padawan360 to support my R2D2. Changes are to support a YX5300 mp3 player, control servos from the main arduino, control the holoprojectors and also interface with different motor controllers.
 
+
+TODO:
+
+- Allow padawan360_dome to control 3 holo projectors including LED's (need to test if it is powerful enough to animate) 
+- Code padawan360_dome to use the PCA9685 PWM drivers to control the HP servos (6 in total) and LED's (12 in total) so one board for LED's and one board for the servos. padawan360_dome will be controlled from the main body code.
+
 - [Padawan360](#padawan360)
 - [Intro](#intro)
 - [Components](#components)
